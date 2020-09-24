@@ -1,0 +1,18 @@
+{
+  "targets": {
+    "fir-demo-project": {
+      "hosting": {
+        "FirstProj": [
+          "fir-demo-project"
+        ]
+      }
+    },
+    "myfirstdeployment-9ef59": {
+      "hosting": {
+        "FirstProj": [
+          "myfirstdeployment-9ef59"
+        ]
+      }
+    }
+  }
+}
